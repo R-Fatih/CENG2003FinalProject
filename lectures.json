@@ -1,0 +1,567 @@
+[
+ {
+  "Lcode": "CENG1001",
+  "Lname": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "UNIV- 1001",
+  "Lname": "İNGİLİZCE I",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 1005",
+  "Lname": "MATEMATİK I",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "UNIV- 1007",
+  "Lname": "KİMYADA KAVRAMLAR",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 1011",
+  "Lname": "SOSYAL SORUMLULUK",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "UNIV- 1015",
+  "Lname": "TÜRK DİLİ ve EDEBİYATI I",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "UNIV- 1017",
+  "Lname": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "UNIV- 1019",
+  "Lname": "FİZİK I",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "UNIV- 1021",
+  "Lname": "KİMYA LABORATUVARI",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "CENG1002",
+  "Lname": "PYTHON İLE VERİ BİLİMİNE GİRİŞ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 1002",
+  "Lname": "İNGİLİZCE II",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 1006",
+  "Lname": "MATEMATİK II",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "UNIV- 1008",
+  "Lname": "BİYOLOJİDE KAVRAMLAR",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 1016",
+  "Lname": "TÜRK DİLİ VE EDEBİYATI II",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "UNIV- 1020",
+  "Lname": "FİZİK II",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "UNIV- 1022",
+  "Lname": "GIDA VE TARIM UYGULAMALARI",
+  "ECTS": 1
+ },
+ {
+  "Lcode": "UNIV- 1024",
+  "Lname": "KARİYER PLANLAMASI",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "UNIV1032",
+  "Lname": "TEKNİK ÇİZİM",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "BENG-2001",
+  "Lname": "ENDÜSTRİYEL MALZEMELER",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "ECOD-2013",
+  "Lname": "EKONOMİYE GİRİŞ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV- 2003",
+  "Lname": "OLASILIK VE İSTATİSTİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "UNIV- 2005",
+  "Lname": "BİLİMSEL YAZIM VE SUNUM TEKNİKLERİ",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "UNIV- 2007",
+  "Lname": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "UNIV- 2017",
+  "Lname": "DİFERANSİYEL DENKLEMLER",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "UNIV- 2019",
+  "Lname": "MÜHENDİSLİK ORYANTASYONU",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "CENG-2001",
+  "Lname": "C PROGRAMLAMA",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "CENG2003",
+  "Lname": "JAVA İLE NESNEYE YÖNELİK PROGRAMLAMA",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "BENG3001",
+  "Lname": "ALETLİ ANALİZ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "BENG3003",
+  "Lname": "BİYOMÜHENDİSLİK LABORATUVARI",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "BENG3005",
+  "Lname": "BİYOMÜHENDİSLER İÇİN BİYOKİMYA I",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "CENG3003",
+  "Lname": "VERİTABANI YÖNETİM SİSTEMLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG3005",
+  "Lname": "SAYISAL TASARIM",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG3007",
+  "Lname": "ALGORİTMALARIN TASARIMI VE ANALİZİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG3011",
+  "Lname": "PROGRAMLAMA DİLLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "EENG3003",
+  "Lname": "DEVRE TEORİSİ",
+  "ECTS": 7
+ },
+ {
+  "Lcode": "EENG3005",
+  "Lname": "SAYISAL TASARIM",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "EENG3007",
+  "Lname": "SİNYALLER VE SİSTEMLER",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "EENG3013",
+  "Lname": "ELEKTRİK ELEKTRONİK LABORATUVARI I",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "FENG3001",
+  "Lname": "AKIŞKANLAR MEKANİĞİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG3003",
+  "Lname": "TERMODİNAMİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG3005",
+  "Lname": "GIDA MİKROBİYOLOJİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG3007",
+  "Lname": "GIDA MİKROBİYOLOJİSİ LABORATUVARI",
+  "ECTS": 2
+ },
+ {
+  "Lcode": "FENG3009",
+  "Lname": "FERMENTASYON TEKNOLOJİSİ",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "FENG3011",
+  "Lname": "GIDA BİYOKİMYASI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3001",
+  "Lname": "MÜHENDİSLİK İSTATİSTİKLERİ VE STOKASTİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3005",
+  "Lname": "ÜRETİM VE SERVİS SİSTEMLERİ TASARIMI I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3009",
+  "Lname": "YÖNEYLEM ARAŞTIRMASINDA MODELLEME",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3015",
+  "Lname": "ÜRETİM BİLGİ SİSTEMLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE3005",
+  "Lname": "MİKROBİYOLOJİ",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "BENG3201",
+  "Lname": "BİYO TEMELLİ ENERJİ SİSTEMLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG3201",
+  "Lname": "MOBİL PROGRAMLAMA",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG3222",
+  "Lname": "GÖRÜNTÜ İŞLEME",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "EENG3215",
+  "Lname": "MİKROELEKTRONİK CİHAZLAR",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG3205",
+  "Lname": "GIDA MUHAFAZA YÖNTEMLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3201",
+  "Lname": "ÇİZELGELEMEYE GİRİŞ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG3221",
+  "Lname": "TEKNOLOJİ YÖNETİMİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE3001",
+  "Lname": "BİYOKİMYA I",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "MBGE3003",
+  "Lname": "HÜCRENİN MOLEKÜLER BİYOLOJİSİ II",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "MBGE3007",
+  "Lname": "MİKROBİYOLOJİ LABORATUVARI",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "MBGE3009",
+  "Lname": "İNSAN FİZYOLOJİSİ",
+  "ECTS": 6
+ },
+ {
+  "Lcode": "PLNT3001",
+  "Lname": "TARIMSAL MEKANİZASYON",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "PLNT3003",
+  "Lname": "BİTKİ FİZYOLOJİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "PLNT3005",
+  "Lname": "BİTKİ ZARARLILARI",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "PLNT3007",
+  "Lname": "TARIMSAL YAPILAR VE SULAMA",
+  "ECTS": 3
+ },
+ {
+  "Lcode": "PLNT3009",
+  "Lname": "ÖRTÜALTI SEBZECİLİĞİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT3011",
+  "Lname": "TIBBİ VE AROMATİK BİTKİLER",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT3017",
+  "Lname": "TARIMSAL MİKROBİYOLOJİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT3023",
+  "Lname": "TOPRAK BİYOLOJİSİ VE BİYOKİMYASI",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "UNIV3001",
+  "Lname": "TEKNO GİRİŞİMCİLİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "BENG4003",
+  "Lname": "BİYOTEKNOLOJİDE YÖNTEMLER",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4001",
+  "Lname": "OTOMATA TEORİSİ VE FORMAL DİLLER",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4003",
+  "Lname": "İŞLETİM SİSTEMLERİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4901",
+  "Lname": "MEZUNİYET PROJESİ I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "EENG4901",
+  "Lname": "MEZUNİYET PROJESİ I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG4003",
+  "Lname": "PROSES TASARIMI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG4005",
+  "Lname": "GIDA TEKNOLOJİSİ II",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG4007",
+  "Lname": "TEMEL İŞLEMLER VE LABORATUVARI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG4009",
+  "Lname": "UYGULAMALI KİNETİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "FENG4901",
+  "Lname": "MEZUNİYET PROJESİ I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4015",
+  "Lname": "TESİS PLANLAMA VE YERLEŞİM TASARIMI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4021",
+  "Lname": "PROJE YÖNETİMİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4901",
+  "Lname": "BİTİRME PROJESİ I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE4003",
+  "Lname": "BİYOİNFORMATİK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE4221",
+  "Lname": "METHODS IN MOLECULAR BIOLOGY",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "BENG4201",
+  "Lname": "SUPRAMOLEKÜLER SİSTEMLER",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "BENG4901",
+  "Lname": "MEZUNİYET PROJESİ I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4207",
+  "Lname": "MAKİNE ÖĞRENMESİNE GİRİŞ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4211",
+  "Lname": "BLOCKCHAIN TEKNOLOJİSİ VE UYGULAMASI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4221",
+  "Lname": "BİLGİSAYAR MÜHENDİSLİĞİNDE ÖZEL KONULAR I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "CENG4232",
+  "Lname": "MULTİMEDYA",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ECOD4209",
+  "Lname": "KALKINMA MAKROEKONOMİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ECOD4213",
+  "Lname": "DOĞAL KAYNAK EKONOMİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ECOD4215",
+  "Lname": "ZAMAN SERİSİ EKONOMETRİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "EENG4203",
+  "Lname": "ELEKTRİK MAKİNELERİNDE İLERİ KONULAR",
+  "ECTS": 7
+ },
+ {
+  "Lcode": "EENG4221",
+  "Lname": "SENSÖRLER VE AKTÜATÖRLER",
+  "ECTS": 7
+ },
+ {
+  "Lcode": "EENG4239",
+  "Lname": "MİKRODALGA",
+  "ECTS": 7
+ },
+ {
+  "Lcode": "FENG4213",
+  "Lname": "ÇAY, KAHVE VE ŞEKERLEME TEKNOLOJİSİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4203",
+  "Lname": "AĞ BİLİMİ VE UYGULAMALARI",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4209",
+  "Lname": "TOPLAM KALİTE YÖNETİMİ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "IENG4215",
+  "Lname": "KARAR VERME İÇİN ANALİTİK YÖNTEMLER",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ITBD4001",
+  "Lname": "STRATEJİK YÖNETİM",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ITBD4219",
+  "Lname": "ULUSLARARASI FİNANSAL PİYASALAR",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "ITBD4247",
+  "Lname": "E-İŞLETME",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE4201",
+  "Lname": "MOLEKÜLER BİYOLOJİ VE GENETİKTE ÖZEL ÇALIŞMALAR I",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MBGE4209",
+  "Lname": "İLAÇ SALIM VE HEDEFLEMEYE GİRİŞ",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "MIS4005",
+  "Lname": "BT KAYNAKLARINI YÖNETMEK",
+  "ECTS": 5
+ },
+ {
+  "Lcode": "PLNT4003",
+  "Lname": "MEYVECİLİK",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4007",
+  "Lname": "HASAT SONRASI FİZYOLOJİSİ VE TEKNOLOJİSİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4009",
+  "Lname": "BAHÇE BİTKİLERİ ENTOMOLOJİSİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4011",
+  "Lname": "TAHILLAR",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4013",
+  "Lname": "ENDÜSTRİ BİTKİLERİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4025",
+  "Lname": "TARIMDA UZAKTAN ALGILAMA VE COĞRAFİ BİLGİ SİSTEMLERİ",
+  "ECTS": 4
+ },
+ {
+  "Lcode": "PLNT4027",
+  "Lname": "TOPRAKSIZ KÜLTÜR",
+  "ECTS": 4
+ }
+]

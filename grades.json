@@ -1,0 +1,72 @@
+[
+ {
+  "Letter Grade": "A",
+  "Coefficient": 4,
+  "Start Point": 90,
+  "Finish Point": 100,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "A-",
+  "Coefficient": 3.7,
+  "Start Point": 85,
+  "Finish Point": 89,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "B+",
+  "Coefficient": 3.3,
+  "Start Point": 80,
+  "Finish Point": 84,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "B",
+  "Coefficient": 3,
+  "Start Point": 75,
+  "Finish Point": 79,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "B-",
+  "Coefficient": 2.7,
+  "Start Point": 70,
+  "Finish Point": 74,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "C+",
+  "Coefficient": 2.3,
+  "Start Point": 65,
+  "Finish Point": 69,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "C",
+  "Coefficient": 2,
+  "Start Point": 60,
+  "Finish Point": 64,
+  "Status": "Pass"
+ },
+ {
+  "Letter Grade": "C-",
+  "Coefficient": 1.7,
+  "Start Point": 55,
+  "Finish Point": 59,
+  "Status": "Conditional Pass"
+ },
+ {
+  "Letter Grade": "D",
+  "Coefficient": 1.3,
+  "Start Point": 50,
+  "Finish Point": 54,
+  "Status": "Conditional Pass"
+ },
+ {
+  "Letter Grade": "F",
+  "Coefficient": 0,
+  "Start Point": 0,
+  "Finish Point": 49,
+  "Status": "Fail"
+ }
+]
