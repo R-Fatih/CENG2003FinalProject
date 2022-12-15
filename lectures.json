@@ -1,4 +1,5 @@
-[
+{"Lectures":
+ [
  {
   "Lcode": "CENG1001",
   "Lname": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
@@ -564,4 +565,4 @@
   "Lname": "TOPRAKSIZ KÜLTÜR",
   "ECTS": 4
  }
-]
+]}
