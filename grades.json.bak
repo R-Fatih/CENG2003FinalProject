@@ -1,4 +1,4 @@
-[
+{"Grades":[
  {
   "Letter Grade": "A",
   "Coefficient": 4,
@@ -69,4 +69,4 @@
   "Finish Point": 49,
   "Status": "Fail"
  }
-]
+]}
